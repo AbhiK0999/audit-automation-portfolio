@@ -1,4 +1,5 @@
-Audit Automation Portfolio (Python | RPA)
+🚀 Python-based Audit Automation Portfolio  
+🔍 Duplicate Invoice Detection | 💰 Bank ReconciliationAudit
 
 👤 Overview
 
